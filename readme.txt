@@ -8,6 +8,6 @@ Git tracks changes of files.
 Creating a new branch is quick.
 My stupid boss is still prefers SVN
 Creating a new branch is quick and simple.
-
+I fucking love you 
 
 
